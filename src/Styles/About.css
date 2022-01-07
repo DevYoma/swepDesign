@@ -1,0 +1,39 @@
+.learnMore{
+    margin-top: 90px;
+}
+
+.learnMore > h1{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 153.5%;
+    color: #3A3B7B;
+    margin-left: 147px;
+}
+
+.learnMore__backgroundImg{
+    /* background: url('../assets/learnMoreImg.png'); */
+    background: url('../assets/learnMoreImg.png');
+    height: 370px;
+    margin-top: 50px;
+}
+
+.learnMore__more{
+    margin-top: 50px;
+    max-width: 950px;
+    margin-left: 150px;
+    font-size: 16px;
+    line-height: 224.5%;
+    color: #7B7B7B;
+}
+/* 
+.learnMore__button > button{
+    margin-left: 150px;
+    margin-top: 35px;
+    width: 188px;
+    height: 49px;
+    background: #854BFF;
+    border-radius: 5px;
+    border: none;
+    color: white;
+} */

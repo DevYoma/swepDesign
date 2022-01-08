@@ -1,12 +1,13 @@
 nav{
     width: 100%;
     padding-top: 68px;
-    padding-left: 124px;
-    padding-right: 124px;
+    padding-left: 120px;
+    padding-right: 120px;
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    margin: 0 auto;
+    /* margin: 0 auto; */
+    margin-inline: auto;
     margin-bottom: 90px ;
     /* border: 1px solid black; */
 }
